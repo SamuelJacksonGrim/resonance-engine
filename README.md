@@ -17,6 +17,18 @@ Generates audio from four mathematical layers:
 
 The result is a WAV file that sounds synthetic but *feels* biological.
 
+![Golden Spiral](images/golden_spiral.jpg)
+
+
+*The Golden Ratio (Φ) — the irrational interval behind the harmonic stacking*
+
+
+
+![Binaural Beat Waveform](images/binaural_waveform.jpg)
+
+
+*Amplitude modulation envelope wrapping the carrier wave — this is what the code produces*
+
 ## Quick Start
 
 ```bash
