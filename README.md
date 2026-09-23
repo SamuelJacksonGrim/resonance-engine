@@ -4,6 +4,15 @@
 [![dual-license](https://img.shields.io/badge/dual--license-AGPL--3.0--only%20or%20commercial-blueviolet)](LICENSING.md)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org)
 
+## License
+
+This project is dual-licensed under **AGPL-3.0-only** OR a commercial license.
+
+- [LICENSE](LICENSE) — GNU AGPL-3.0-only (the free track)
+- [LICENSING.md](LICENSING.md) — how the two tracks work
+- [COMMERCIAL-LICENSE.md](COMMERCIAL-LICENSE.md) — the commercial agreement
+- [NOTICE](NOTICE) — copyright, SPDX identifier, and provenance
+
 
 **Therapeutic audio from pure math — not samples, not loops, not presets.**
 
@@ -137,6 +146,3 @@ Designed by **Samuel Jackson Grim** (The Architect) through multi-agent AI colla
 - **Grok** — Phase randomization, HRV soft-knee, β noise palette, final review
 - **Claude** — Code consolidation, documentation, packaging
 
-## License
-
-MIT. Use it however you want. Make something that helps someone.
